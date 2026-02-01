@@ -1,0 +1,25 @@
+
+{
+  "name": "Portal Web",
+  "short_name": "Portal",
+  "description": "Central de recursos e assistente IA seguro.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/gJzFByk5/file-0000000098b8720e9deb64f615033168.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.postimg.cc/gJzFByk5/file-0000000098b8720e9deb64f615033168.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
